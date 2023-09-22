@@ -1,0 +1,27 @@
+{
+  "hotel_name": "Luxury Hotel",
+  "location": "City Center",
+  "total_rooms": 200,
+  "categories": [
+    {
+      "category_name": "Standard Room",
+      "description": "Comfortable and budget-friendly room with essential amenities.",
+      "price_per_night": 100
+    },
+    {
+      "category_name": "Deluxe Room",
+      "description": "Spacious and well-appointed room with a view and extra amenities.",
+      "price_per_night": 200
+    },
+    {
+      "category_name": "Suite",
+      "description": "Luxurious suite with a separate living area, perfect for relaxation.",
+      "price_per_night": 300
+    },
+    {
+      "category_name": "Penthouse Suite",
+      "description": "The epitome of luxury with panoramic views, a private jacuzzi, and top-notch services.",
+      "price_per_night": 500
+    }
+  ]
+}
